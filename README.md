@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-LGusttavoo/LGusttavoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Criei esse pertfil no Github para aprender e compartilhar meus projetos de progamção, Ainda estou aprendendo,
+será um grande desafio para o qual busco me tornar um progamador!
 --->
